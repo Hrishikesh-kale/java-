@@ -1,0 +1,56 @@
+ PRN NO -210541281062
+ Name- Hrushikesh Kale
+ Roll no - 1068
+
+
+ SRS for E=Commerce Application
+
+1] Purpose:
+           Main purpose of the e-commerce application is to serve a simple and effective 
+           interface for communication between buyers and sellers, to make payment for the
+           purchased product, taking review for the endusers abut the product.
+
+2] Scope:
+         E-commerce application is a interface between buyers and sellers which can be 
+         used for business service.
+
+3] Defination:
+		E-Commerce- Electronic commerce
+                gb-giga bytes
+
+4] overview:
+             e-commerce is web based application developed for easy ,simple , relaible access
+             to buy and sell product around the whole world. We can also chat get review 
+             make online payment track order and policy required for payment  and get reciept
+             at user end after succesfull payment. Also  get a messsage after successfull delivery 
+             of the product.
+
+5] Functional Reqiurement:
+              - allow to register user if not registered 
+              - allow to login user if already registered 
+              - adding product to cart
+              - checking offers
+              - discount 
+              - online payment 
+
+6] Technical Issue:
+                 - sending mail to server side for anlaysis or looking into problem
+                 - sending mail to user after issue is solved 
+
+7] Hardware Interface:
+          Harddisk-50 GB and above 
+          Ram requirement - 4 gb and above
+          processor- i3 and above 
+          keyboard 
+          mouse 
+          Display
+          Internet connectivity
+
+8] Non functional requirement:
+            Maintainence
+
+
+           
+  		   		 
+
+ 
